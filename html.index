@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sneakers Famintos</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="card.css">
+</head>
+<body>
+    <script src="script.js"></script>
+    <header>
+        <h1>Sneakers Famintos</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="contato.html">Contato</a></li>
+                <li><a href="produtos.html">Produtos</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="container">
+            <h1>Título do Container</h1>
+            <p>Sneakers, também conhecidos como tênis, são calçados versáteis e populares que conquistaram o coração de pessoas ao redor do mundo. Esses sapatos esportivos combinam estilo e conforto, tornando-os uma escolha ideal para diversas ocasiões. Com uma infinidade de estilos, cores e marcas disponíveis, há um sneaker para cada gosto e personalidade.</p><br>
+            <p>Além de proporcionar conforto durante atividades físicas, os sneakers se tornaram um item de moda indispensável. Eles são perfeitos para compor looks casuais e urbanos, combinando com jeans, shorts, vestidos e até mesmo com peças mais formais. Com a constante evolução do design, é possível encontrar modelos com detalhes únicos, materiais inovadores e tecnologias avançadas que melhoram o desempenho e o amortecimento.</p><br>
+            <p>Os sneakers têm uma história rica, que remonta ao século XIX, quando foram criados para atender às necessidades dos atletas. No entanto, com o passar dos anos, eles se tornaram um símbolo de estilo e expressão individual. Hoje em dia, é comum encontrar pessoas colecionando sneakers e aguardando ansiosamente por lançamentos exclusivos.</p>  <br>
+            <p>A cultura dos sneakers também é impulsionada pela colaboração entre marcas renomadas e celebridades. Parcerias entre estilistas, artistas e atletas resultam em edições limitadas e altamente cobiçadas, criando uma atmosfera de exclusividade e desejo.</p><br>
+            <p>Além disso, os sneakers têm uma pegada sustentável. Muitas marcas estão investindo em materiais reciclados e processos de fabricação mais conscientes para reduzir o impacto ambiental. Essa abordagem eco-friendly está ganhando cada vez mais adeptos e mostra o comprometimento da indústria em direção a um futuro mais sustentável.</p><br>
+             <p>Em resumo, os sneakers são muito mais do que apenas calçados esportivos. Eles se tornaram um símbolo de estilo, cultura e expressão pessoal. Com uma ampla variedade de modelos disponíveis, eles são capazes de atender a todos os gostos e necessidades. Seja para um treino, para um encontro casual ou para completar um visual estiloso, os sneakers continuam a ser uma escolha popular e versátil para pessoas de todas as idades.</p> <br>  
+                </div>
+    <div class="slideshow-container">
+            <div class="mySlides fade">
+                <img src="./images/img1.jpg">
+            </div>
+            <div class="mySlides fade">
+                <img src="./images/img2.jpg">
+            </div>
+            <div class="mySlides fade">
+                <img src="./images/img3.jpg">
+            </div>
+            <div class="mySlides fade">
+                <img src="./images/img4.jpg">
+            </div>
+            <div class="mySlides fade">
+                <img src="./images/img5.jpg">
+            </div>
+            <div class="mySlides fade">
+                <img src="v./images/img6.jpg">
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2023 Sneakers Famintos - Todos os direitos reservados.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
